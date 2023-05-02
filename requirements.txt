@@ -1,0 +1,6 @@
+# Function dependencies, for example:
+# package>=version
+# langchain
+gpt_index
+line-bot-sdk
+requests
